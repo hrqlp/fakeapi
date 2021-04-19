@@ -1,6 +1,32 @@
 {
+"people":[
+{
   "name": "David Santana",
   "phoneNumber": "11958963248",
   "email": "david.santana23@gmail.com",
   "typePeople": 1
+},  {
+    "name": "Bruno Dorea",
+    "phoneNumber": "1198714524",
+    "email": "bruno.dorea09@gmail.com",
+    "typePeople": 0
+ }],
+"login":[
+     {
+        "user": "ladybeard",
+        "password": "daKorDopecado!",
+        "typeArea": 2,
+        "typeEmployee": 2,
+        "accessLevel": 0,
+        "peopleId": 3
+    },
+     {
+        "user": "breakdown",
+        "password": "xutera45%",
+        "typeArea": 1,
+        "typeEmployee": 1,
+        "accessLevel": 1,
+        "peopleId": 8
+    }]
+
 }
